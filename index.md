@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+Hi, I am Ayushi.
 
-Maybe say a some things about yourself.
+I just created this lttle world of mine, and lets see what this has to offer.
 
-Or maybe what you plan to blog about.
+```
+Hello World!
+```
+
